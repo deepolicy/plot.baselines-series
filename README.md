@@ -1,6 +1,6 @@
 # plot.baselines-series
 
-A series of running results of baselines ppo with different environments.
+A series of baselines ppo running results on different environments.
 
 # To use the code
 
